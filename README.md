@@ -1,10 +1,12 @@
-### Hi there 👋
+### Hi 👋
 
-<!--
-**jotpacanowski/jotpacanowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![CodeWars badge](https://www.codewars.com/users/jotpacanowski/badges/micro)
 
+![LeetCode user jotpacanowski](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fjotpacanowski&logo=leetcode&logoColor=yellow)
+
+<!-- TODO: OI link -->
+<!-- Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
